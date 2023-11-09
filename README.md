@@ -1,0 +1,1 @@
+This project is part of the course Web Development from Professor Dr. Angela Yu. The objective is to demonstrate the use of javascript methods to allow the user to listen to a sound each time a button is pressed or each time a key is pressed from the keyboard
